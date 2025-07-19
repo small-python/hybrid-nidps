@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+*.db
+*.sqlite
+*.zip
+node_modules/
+*.json  # Optional: exclude massive JSON logs like eve.json
